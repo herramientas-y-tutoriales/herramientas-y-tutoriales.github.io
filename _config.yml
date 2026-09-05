@@ -1,0 +1,17 @@
+title: "Herramientas y tutoriales"
+description: "Herramientas online, guias claras y recomendaciones para crear mejor en internet."
+url: "https://herramientas-y-tutoriales.github.io"
+baseurl: ""
+lang: es
+timezone: UTC
+permalink: /:year/:month/:day/:title/
+markdown: kramdown
+paginate: 30
+paginate_path: "/pagina/:num/"
+repository_url: "https://github.com/herramientas-y-tutoriales/herramientas-y-tutoriales.github.io"
+branch: main
+author: "Herramientas y tutoriales"
+plugins: [jekyll-feed, jekyll-paginate]
+defaults:
+  - scope: { path: "", type: "posts" }
+    values: { layout: "post" }
