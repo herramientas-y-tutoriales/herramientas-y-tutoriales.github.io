@@ -1,1 +1,14 @@
-<!doctype html><html lang="{{ site.lang | default: 'es' }}"><head>{% include head.html %}</head><body class="radio"><div class="signal"></div><header><a class="station" href="{{ '/' | relative_url }}"><span>HERRAMIENTAS</span><b>&amp;</b><span>TUTORIALES</span></a><p>FRECUENCIA UTIL / 24-7</p><nav aria-label="Navegacion"><a href="{{ '/' | relative_url }}">Inicio</a><a href="{{ '/about/' | relative_url }}">Nosotros</a><a href="{{ '/privacy/' | relative_url }}">Privacidad</a></nav></header><main>{{ content }}</main><footer><b>H&amp;T</b><span>Para hacer mas, con menos ruido.</span><a href="https://the-lean-ecommerce.com">The Lean Ecommerce</a><a href="{{ '/terms/' | relative_url }}">Terminos</a><a href="{{ '/sitemap.xml' | relative_url }}">Mapa</a></footer></body></html>
+<!doctype html>
+<html lang="{{ site.lang | default: 'es' }}">
+<head>{% include head.html %}<link rel="stylesheet" href="{{ '/assets/css/premium.css' | relative_url }}"></head>
+<body class="radio">
+  <div class="signal"></div>
+  <header>
+    <a class="station" href="{{ '/' | relative_url }}"><img src="{{ '/assets/img/logo.png' | relative_url }}" alt="" width="58" height="58"><span>HERRAMIENTAS</span><b>&amp;</b><span>TUTORIALES</span></a>
+    <p>FRECUENCIA UTIL / 24-7</p>
+    <nav aria-label="Navegacion"><a href="{{ '/' | relative_url }}">Inicio</a><a href="{{ '/about/' | relative_url }}">Nosotros</a><a href="{{ '/privacy/' | relative_url }}">Privacidad</a></nav>
+  </header>
+  <main>{{ content }}</main>
+  <footer><b>H&amp;T</b><span>Para hacer mas, con menos ruido.</span><a href="{{ '/terms/' | relative_url }}">Terminos</a><a href="{{ '/sitemap.xml' | relative_url }}">Mapa</a></footer>
+</body>
+</html>

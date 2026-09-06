@@ -11,6 +11,7 @@ paginate_path: "/pagina/:num/"
 repository_url: "https://github.com/herramientas-y-tutoriales/herramientas-y-tutoriales.github.io"
 branch: main
 author: "Herramientas y tutoriales"
+default_social_image: "/assets/img/social-card.png"
 plugins: [jekyll-feed, jekyll-paginate]
 defaults:
   - scope: { path: "", type: "posts" }
