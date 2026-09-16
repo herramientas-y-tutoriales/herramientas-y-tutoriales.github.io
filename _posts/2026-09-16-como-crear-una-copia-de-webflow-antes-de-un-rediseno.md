@@ -2,7 +2,7 @@
 layout: post
 title: "Como Crear una Copia de Webflow Antes de un Rediseño"
 description: "Una guia practica para exportar y probar una copia estatica de un sitio Webflow antes de cambiarlo."
-date: 2026-09-16 20:30:00 +0000
+date: 2026-09-16 00:01:00 +0000
 categories: [herramientas, tutoriales]
 tags: [webflow, rediseno-web, exportar-sitio, exflow]
 canonical_url: ""
