@@ -2,7 +2,7 @@
 layout: post
 title: "Cómo Crear un Vídeo de Demostración con IA para Tu Ficha de Shopify"
 description: "Una guía práctica para crear un vídeo de producto breve, claro y reutilizable en Shopify con IA."
-date: 2026-10-02 14:32:43 +0000
+date: 2026-10-02 14:39:12 +0000
 categories: [herramientas, tutoriales]
 tags: [shopify, video-de-producto, ugc, ia, ecommerce]
 canonical_url: ""
@@ -19,7 +19,7 @@ image: "/assets/img/posts/2026-10-02-como-crear-un-video-de-demostracion-con-ia-
 
 Antes de elegir avatar o fondo, escribe una frase: «Después de ver este vídeo, la persona entenderá ___». Para una botella térmica podría ser «cómo se cierra y no gotea». Para un organizador, «cuánto cabe y cómo se instala». Para una crema, «la textura y el orden de uso».
 
-No intentes explicar catálogo, marca y promoción en veinticinco segundos. Un vídeo de ficha es un ayudante de decisión, no un anuncio que tenga que hacerlo todo. Si además necesitas creatividades para captar tráfico, la guía de [cuatro anuncios UGC en 24 horas](https://herramientas-y-tutoriales.github.io/2026/09/29/como-probar-cuatro-anuncios-ugc-para-shopify/) propone un planteamiento distinto: allí se comparan aperturas; aquí se reduce fricción cerca del botón de compra.
+No intentes explicar catálogo, marca y promoción en veinticinco segundos. Un vídeo de ficha es un ayudante de decisión, no un anuncio que tenga que hacerlo todo. Si además necesitas creatividades para captar tráfico, la guía de [cuatro anuncios UGC en 24 horas](https://supra-ugc-maker.sktch.io/blog/shopify-pdp-video-playbook-ai-ugc) propone un planteamiento distinto: allí se comparan aperturas; aquí se reduce fricción cerca del botón de compra.
 
 ## Construye un guion de cuatro bloques
 
