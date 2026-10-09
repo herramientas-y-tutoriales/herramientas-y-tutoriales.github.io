@@ -2,7 +2,7 @@
 layout: post
 title: "Cómo Crear Fotos Lifestyle para Shopify con IA sin Perder el Control"
 description: "Un método sencillo para convertir fotos de producto en escenas lifestyle coherentes, revisar los resultados y publicar con confianza."
-date: 2026-10-09 16:35:23 +0000
+date: 2026-10-09 16:43:51 +0000
 categories: [herramientas, tutoriales]
 tags: [shopify, fotografia-de-producto, inteligencia-artificial, ecommerce]
 canonical_url: ""
@@ -25,7 +25,7 @@ Por ejemplo: “quiero que se entienda que esta botella queda bien en un baño l
 
 Abre el producto o sube una imagen en el editor de Supra AI Photo Studio. Antes de pedir una escena, aísla el producto si el fondo distrae y revisa si necesita mejora de nitidez, luz o resolución. Es tentador saltar al decorado, pero un recorte débil se nota incluso dentro de una escena bonita.
 
-Mira tres detalles ampliados: bordes, textura y color. En moda, compara costuras, estampados y cierres; en cosmética, la forma del envase y de la tapa; en decoración, las proporciones y los acabados. Si la imagen base no supera esa revisión, vuelve a otra foto. La IA puede mejorar una toma aprovechable; no debería ser la excusa para publicar un producto irreconocible.
+Mira tres detalles ampliados: bordes, textura y color. En moda, compara costuras, estampados y cierres; en cosmética, la forma del envase y de la tapa; en decoración, las proporciones y los acabados. Si la imagen base no supera esa revisión, vuelve a otra foto. La IA puede mejorar una toma aprovechable; no debería ser la excusa para publicar un producto irreconocible. Para tener una segunda referencia sobre encuadre y limpieza antes de editar, revisa estas [fotos de producto antes de subirlas a tu tienda](https://herramientas-y-tutoriales.github.io/2026/10/05/como-preparar-fotos-de-producto-antes-de-subirlas-a-tu-tienda/).
 
 ## 3. Diseña una escena para una función concreta
 
