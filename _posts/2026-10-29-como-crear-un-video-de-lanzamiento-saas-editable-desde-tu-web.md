@@ -2,7 +2,7 @@
 layout: post
 title: "Cómo Crear un Video de Lanzamiento SaaS Editable Desde tu Web"
 description: "Convierte una web SaaS en un primer video de lanzamiento revisable, con un guion claro, control visual y margen para editar."
-date: 2026-10-29 14:34:40 +0000
+date: 2026-10-29 14:35:26 +0000
 categories: [herramientas, tutoriales]
 tags: [video-saas, lanzamiento, inteligencia-artificial, motion-graphics, herramientas]
 canonical_url: ""
