@@ -2,7 +2,7 @@
 layout: post
 title: "Categoría, tipo y metafield: la hoja de ruta para ordenar Shopify"
 description: "Aclara categoría, tipo de producto y metafields en Shopify antes de una actualización masiva con una hoja de ruta revisable."
-date: 2026-11-12 03:30:11 +0000
+date: 2026-11-11 03:30:11 +0000
 categories: [herramientas, tutoriales]
 tags: [shopify, catalogo, metafields, automatizacion]
 canonical_url: ""
